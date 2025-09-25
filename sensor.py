@@ -1,5 +1,5 @@
 import random
-
+#clase sensor
 class Sensor:
     def __init__(self, proximidad=0, temporizador=0):
         self.proximidad = proximidad
